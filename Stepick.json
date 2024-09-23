@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 {
   "name": "Lalala",
   "age": 25,
   "city": "Moscow",
   "my life": "Fuck it"
+=======
+{
+  "name": "Lalala",
+  "age": 25,
+  "city": "Moscow"
+>>>>>>> 092e66c5f1df79f801c0388758d7c634cf86f121
 }
